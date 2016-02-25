@@ -1,9 +1,10 @@
-#Basic Automation Project
+#Mave Automation Project
 
-Basic Java  Automation Project
+Maven  Automation Project
 
 *QA
 *Java
 *Maven
+*Properties
 
 [Denis Umanets](http://sqasolution.com)
